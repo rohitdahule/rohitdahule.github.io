@@ -1,0 +1,12 @@
+title: "Rohit Dahule"
+description: "Postdoctoral Researcher | Computational Materials Science"
+theme: minima
+
+author:
+  name: "Rohit Dahule"
+  email: "rohitdahule23@gmail.com"
+
+header_pages:
+  - research.md
+  - publications.md
+  - cv.md
