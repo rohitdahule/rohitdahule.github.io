@@ -12,13 +12,14 @@ You can download my full CV here:
 
 ## Education
 
-- PhD in Materials Science, JAIST, Japan, 2022–2025
-- M.Tech in Materials Science and Engineering, IIT Gandhinagar, India, 2018–2020
-- B.E. in Mechanical Engineering, Rajiv Gandhi College of Engineering, Research and Technology, India, 2012–2016
+- PhD in Materials Science, JAIST, Japan 2025
+- M.Tech in Materials Science and Engineering, IIT Gandhinagar, India, 2020
+- B.E. in Mechanical Engineering, Rajiv Gandhi College of Engineering, Research and Technology, India,2016
 
-## Technical Skills
+<!-- ## Technical Skills
 
 - **Programming:** Python, Bash, Linux, LaTeX
 - **Computational Materials Science:** VASP, Quantum ESPRESSO, FPPF, QMCPACK, CALYPSO, USPEX
 - **Visualization and Analysis:** Phonopy, Phono3py, XCrySDen, VESTA
-- **Computing:** HPC cluster computing
+- **Computing:** HPC cluster computing 
+-->
