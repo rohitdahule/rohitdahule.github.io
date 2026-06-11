@@ -1,10 +1,10 @@
 ---
 layout: page
-# title: CV
+title: CV
 permalink: /cv/
 ---
 
-# Curriculum Vitae
+<!-- # Curriculum Vitae -->
 
 You can download my full CV here:
 
