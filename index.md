@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Home
+title: Rohit Dahule
 ---
 
-# Rohit Dahule
+%# Rohit Dahule
 
 **Postdoctoral Researcher**  
 National Institute for Materials Science (NIMS), Japan
