@@ -10,10 +10,10 @@ My research focuses on computational materials science using first-principles me
 
 ## Main Areas
 
-### First-Principles Materials Modeling
+### First-Principles Simulation
 I use density functional theory (DFT) to study structural stability, electronic properties, surfaces, and interfaces of materials.
 
-### First-Principles Phase Field Modeling
+### First-Principles Phase Field Method
 I work on parameter-free approaches for predicting alloy microstructure evolution using first-principles phase field methods.
 
 <!--
