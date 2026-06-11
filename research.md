@@ -4,7 +4,7 @@ layout: page
 permalink: /research/
 ---
 
-# Research
+<!-- # Research -->
 
 My research focuses on computational materials science using first-principles methods, structure prediction, and data-driven approaches.
 
