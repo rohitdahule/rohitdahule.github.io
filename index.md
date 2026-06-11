@@ -8,7 +8,7 @@ title: Rohit Dahule
 **Postdoctoral Researcher**  
 National Institute for Materials Science (NIMS), Japan
 
-I am a computational materials scientist working on first-principles materials modeling, density functional theory, first-principles phase-field methods, computational alloy design, and materials discovery.
+I am a researcher working in computational materials science, with a focus on density functional theory (DFT) and atomistic simulations. My work explores surface properties, microstructure, and lattice dynamics of materials, including the use of machine learning potentials and first-principles methods.
 
 [Research Gate](https://www.researchgate.net/profile/Rohit-Dahule-2?ev=hdr_xprf) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=tWwXWtMAAAAJ) | [LinkedIn](https://www.linkedin.com/in/rohit-dahule/)
 
