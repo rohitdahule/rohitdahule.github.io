@@ -10,7 +10,7 @@ National Institute for Materials Science (NIMS), Japan
 
 I am a computational materials scientist working on first-principles materials modeling, density functional theory, first-principles phase-field methods, computational alloy design, and materials discovery.
 
-[Download CV](files/cv.pdf) | [Google Scholar](#) | [GitHub](#) | [LinkedIn](#)
+[Research Gate](https://www.researchgate.net/profile/Rohit-Dahule-2?ev=hdr_xprf) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=tWwXWtMAAAAJ) | [LinkedIn](https://www.linkedin.com/in/rohit-dahule/)
 
 ---
 
