@@ -11,6 +11,8 @@ I am a researcher working in computational materials science, with a focus on de
 [Research Gate](https://www.researchgate.net/profile/Rohit-Dahule-2?ev=hdr_xprf) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=tWwXWtMAAAAJ) | [LinkedIn](https://www.linkedin.com/in/rohit-dahule/)
 
 ---
+
+
 <!-- 
 ## Research Interests
 
