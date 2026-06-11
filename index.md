@@ -11,7 +11,7 @@ I am a researcher working in computational materials science, with a focus on de
 [Research Gate](https://www.researchgate.net/profile/Rohit-Dahule-2?ev=hdr_xprf) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=tWwXWtMAAAAJ) | [LinkedIn](https://www.linkedin.com/in/rohit-dahule/)
 
 ---
-
+<!-- 
 ## Research Interests
 
 - Density Functional Theory (DFT)
@@ -39,3 +39,4 @@ National Institute for Materials Science, Tsukuba, Japan
 2025–Present
 
 Current research focuses on first-principles phase-field modeling, alloy microstructure evolution, computational alloy design, and surface science.
+-->
