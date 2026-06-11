@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Rohit Dahule
+title: Home
 ---
 
 # Rohit Dahule
