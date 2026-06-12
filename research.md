@@ -39,3 +39,9 @@ My current work includes intermetallic and solid-solution alloy systems such as 
 -->
 ### Surface and Interface Engineering
 I study semiconductor surfaces and interfaces relevant to thin-film solar cells, electronic materials, and advanced interconnects.
+
+<figure style="text-align:center;">
+
+  <img src="/assets/images/SnS2025.jpeg" width="400">
+</figure>
+
