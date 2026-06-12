@@ -16,6 +16,11 @@ You can download my full CV here:
 - M.Tech in Materials Science and Engineering, IIT Gandhinagar, India, 2020
 - B.E. in Mechanical Engineering, Rajiv Gandhi College of Engineering, Research and Technology, India,2016
 
+## Appointments
+
+- Postdoctoral Researcher, NIMS, Tsukuba, Japan, 2025 to present
+- Junior Research Fellow, IIT Gandhinagar, India, 2020 to 2021
+
 <!-- ## Technical Skills
 
 - **Programming:** Python, Bash, Linux, LaTeX
