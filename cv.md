@@ -21,6 +21,12 @@ You can download my full CV here:
 - Postdoctoral Researcher, NIMS, Tsukuba, Japan, 2025 to present
 - Junior Research Fellow, IIT Gandhinagar, India, 2020 to 2021
 
+## Honors and Awards
+
+- MEXT Scholarship, Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan (2021-2025).
+- JASSO Scholarship, Japan Student Services Organization (JASSO), Japan (2019).
+- Tuition Fee Waiver Scheme (TFWS), Government of Maharashtra, India (2012--2016).
+
 <!-- ## Technical Skills
 
 - **Programming:** Python, Bash, Linux, LaTeX
