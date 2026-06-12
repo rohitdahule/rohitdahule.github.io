@@ -18,14 +18,17 @@ I use density functional theory (DFT) to study structural stability, electronic 
 <figure style="text-align:center;">
 
   <img src="/assets/images/CTS2021.jpg" width="200">
-
- # <figcaption>
-
-  #  APS Global Physics Summit 2026, Denver, Colorado.
-
-  # </figcaption>
-
 </figure>
+
+<!-- 
+  <figcaption>
+
+    APS Global Physics Summit 2026, Denver, Colorado.
+
+   </figcaption>
+  -->
+
+
 
 ### First-Principles Phase Field Method
 I work on parameter-free approaches for predicting alloy microstructure evolution using first-principles phase field methods.
