@@ -17,7 +17,7 @@ I use density functional theory (DFT) to study structural stability, electronic 
 
 <figure style="text-align:center;">
 
-  <img src="/assets/images/CTS2021.jpg" width="700">
+  <img src="/assets/images/CTS2021.jpg" width="200">
 
  # <figcaption>
 
