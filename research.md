@@ -13,6 +13,7 @@ My research focuses on computational materials science using first-principles me
 ### First-Principles Simulation
 I use density functional theory (DFT) to study structural stability, electronic properties, surfaces, and interfaces of materials.
 
+![CTS](/assets/images/CTS2021.pdf)
 
 
 ### First-Principles Phase Field Method
