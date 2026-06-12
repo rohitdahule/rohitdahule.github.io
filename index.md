@@ -13,6 +13,13 @@ I am a researcher working in computational materials science, with a focus on de
 ---
 
 
+
+<figure style="text-align:center;">
+
+  <img src="/assets/images/cms.png" width="800">
+</figure>
+
+
 <!-- 
 ## Research Interests
 
