@@ -16,7 +16,6 @@ I use density functional theory (DFT) to study structural stability, electronic 
 <!-- ![CTS](/assets/images/CTS2021.jpg) -->
 
 <figure style="text-align:center;">
-
   <img src="/assets/images/SnS2022.jpg" width="400">
 </figure>
 
@@ -27,7 +26,9 @@ I use density functional theory (DFT) to study structural stability, electronic 
 
    </figcaption>
   -->
-
+<figure style="text-align:center;">
+  <img src="/assets/images/poly.jpg" width="400">
+</figure>
 
 
 ### First-Principles Phase Field Method
