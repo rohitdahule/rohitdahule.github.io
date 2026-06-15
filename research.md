@@ -18,10 +18,11 @@ I use density functional theory (DFT) to study structural stability, electronic 
   <img src="/assets/images/SnS2022.jpg" width="400">
 </figure>
 
+<!-- 
 <figure style="text-align:center;">
   <img src="/assets/images/CTS2021.jpg" width="400">
 </figure>
-<!-- 
+
   <figcaption>
 
     APS Global Physics Summit 2026, Denver, Colorado.
