@@ -18,7 +18,9 @@ I use density functional theory (DFT) to study structural stability, electronic 
 <figure style="text-align:center;">
   <img src="/assets/images/SnS2022.jpg" width="400">
 </figure>
-
+<figure style="text-align:center;">
+  <img src="/assets/images/DOT2026.jpg" width="400">
+</figure>
 <!-- 
   <figcaption>
 
@@ -26,10 +28,6 @@ I use density functional theory (DFT) to study structural stability, electronic 
 
    </figcaption>
   -->
-<figure style="text-align:center;">
-  <img src="/assets/images/poly.jpg" width="400">
-</figure>
-
 
 ### First-Principles Phase Field Method
 I work on parameter-free approaches for predicting alloy microstructure evolution using first-principles phase field methods.
