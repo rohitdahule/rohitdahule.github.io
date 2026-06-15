@@ -34,7 +34,7 @@ I use density functional theory (DFT) to study structural stability, electronic 
 I work on parameter-free approaches for predicting alloy microstructure evolution using first-principles phase field methods.
 
 <figure style="text-align:center;">
-  <img src="/assets/images/fppf.png" width="400">
+  <img src="/assets/images/fppf.png" width="550">
 </figure>
 
 <!--
