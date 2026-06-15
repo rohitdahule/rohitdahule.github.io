@@ -33,6 +33,10 @@ I use density functional theory (DFT) to study structural stability, electronic 
 ### First-Principles Phase Field Method
 I work on parameter-free approaches for predicting alloy microstructure evolution using first-principles phase field methods.
 
+<figure style="text-align:center;">
+  <img src="/assets/images/fppf.png" width="400">
+</figure>
+
 <!--
 ### Computational Alloy Design
 My current work includes intermetallic and solid-solution alloy systems such as Ni-Al and Co-Ru.
