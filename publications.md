@@ -45,6 +45,7 @@ permalink: /publications/
   *Surface study of Cu₂SnS₃ using first-principles density functional theory*  
   **Advanced Theory and Simulations**, 4(6), 2000315 (2021).  
   DOI: [10.1002/adts.202000315](https://doi.org/10.1002/adts.202000315)
+
 ---
 
 ## Conference Presentation
