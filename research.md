@@ -14,10 +14,10 @@ My research focuses on computational materials science using first-principles me
 I use density functional theory (DFT) to study structural stability, electronic properties, surfaces, and interfaces of materials.
 
 <!-- ![CTS](/assets/images/CTS2021.jpg) -->
-
 <figure style="text-align:center;">
   <img src="/assets/images/SnS2022.jpg" width="400">
 </figure>
+
 <figure style="text-align:center;">
   <img src="/assets/images/DOT2026.jpg" width="400">
 </figure>
@@ -28,6 +28,13 @@ I use density functional theory (DFT) to study structural stability, electronic 
 
    </figcaption>
   -->
+<figure style="text-align:center;">
+  <div class="slideshow">
+    <img src="/assets/images/SnS2022.jpg" class="slide">
+    <img src="/assets/images/DOT2026.jpg" class="slide">
+  </div>
+  <figcaption>Selected research highlights</figcaption>
+</figure>
 
 ### First-Principles Phase Field Method
 I work on parameter-free approaches for predicting alloy microstructure evolution using first-principles phase field methods.
