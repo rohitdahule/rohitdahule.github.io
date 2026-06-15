@@ -28,14 +28,45 @@ I use density functional theory (DFT) to study structural stability, electronic 
 
    </figcaption>
   -->
-<figure style="text-align:center;">
-  <div class="slideshow">
-    <img src="/assets/images/SnS2022.jpg" class="slide">
-    <img src="/assets/images/DOT2026.jpg" class="slide">
-  </div>
-  <figcaption>Selected research highlights</figcaption>
-</figure>
+<div class="slideshow">
+  <img src="/assets/images/SnS2022.jpg" class="slide">
+  <img src="/assets/images/DOT2026.jpg" class="slide">
+</div>
 
+<style>
+.slideshow {
+  position: relative;
+  width: 400px;
+  height: 260px;
+  margin: 0 auto;
+}
+
+.slide {
+  position: absolute;
+  width: 400px;
+  height: auto;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  animation: fadeSlide 8s infinite;
+}
+
+.slide:nth-child(1) {
+  animation-delay: 0s;
+}
+
+.slide:nth-child(2) {
+  animation-delay: 4s;
+}
+
+@keyframes fadeSlide {
+  0% { opacity: 0; }
+  10% { opacity: 1; }
+  45% { opacity: 1; }
+  55% { opacity: 0; }
+  100% { opacity: 0; }
+}
+</style>
 ### First-Principles Phase Field Method
 I work on parameter-free approaches for predicting alloy microstructure evolution using first-principles phase field methods.
 
