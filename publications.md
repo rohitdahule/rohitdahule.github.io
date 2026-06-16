@@ -7,12 +7,12 @@ permalink: /publications/
 ## Journal publications
 
 1. Dotiyal M., **Dahule R.**, Hongo K., Ichiba T., Maezono R., & Panda E.  
-  *Dopant induced variation in electronic structure, crystal structure, and electrical properties in VO₂: Correlation between Theory and Experiment*  
+  *Dopant induced variation in electronic structure, crystal structure, and electrical properties in VO<sub>2</sub>: Correlation between Theory and Experiment*  
   **Journal of Alloys and Compounds**, 189095 (2026).  
   DOI: [10.1016/j.jallcom.2026.189095](https://doi.org/10.1016/j.jallcom.2026.189095)
 
 1. Bandi H., **Dahule R.**, Kakarla A., Maezono R., Narsimulu D., Akram S. W., Shanthappa R., & Yu J. S.  
-  *New insights into the green synthesis of CoMoO₄ nanorods decorated with silver nanoparticles for high-performance Li⁺ storage anode*  
+  *New insights into the green synthesis of CoMoO<sub>4</sub> nanorods decorated with silver nanoparticles for high-performance Li<sup>+</sup> storage anode*  
   **Chemical Engineering Journal**, 508, 160748 (2025).  
   DOI: [10.1016/j.cej.2025.160748](https://doi.org/10.1016/j.cej.2025.160748)
 
@@ -27,12 +27,12 @@ permalink: /publications/
   DOI: [10.1021/acsapm.4c03165](https://doi.org/10.1021/acsapm.4c03165)
 
 1. Bandi H., Kakarla A.,**Dahule R.**, Maezono R., Narsimulu D., Shanthappa R., & Yu J. S.
-  *Nickel vanadate cathode induced in-situ phase transition for improved zinc storage by low migration barrier and Zn²⁺/H⁺ co-insertion mechanism*  
+  *Nickel vanadate cathode induced in-situ phase transition for improved zinc storage by low migration barrier and Zn<sup>2+</sup>/H<sup>+</sup> co-insertion mechanism*  
   **Small**, 21(2), 2408568 (2025).  
   DOI: [10.1002/smll.202408568](https://doi.org/10.1002/smll.202408568)
 
 1. Song P., Durajski A., Hou Z., Ghaffar A., **Dahule R.**, Szczesniak R., Hongo K., & Maezono R.  
-  *(La,Th)H₁₀: Potential high-Tc (242 K) superconductors stabilized thermodynamically below 200 GPa*  
+  *(La,Th)H<sub>10</sub>: Potential high-T<sub>c</sub> (242 K) superconductors stabilized thermodynamically below 200 GPa*  
   **Journal of Physical Chemistry C**, 128(6), 2656–2665 (2024).  
   DOI: [10.1021/acs.jpcc.3c07213](https://doi.org/10.1021/acs.jpcc.3c07213)
 
@@ -42,7 +42,7 @@ permalink: /publications/
   DOI: [10.1039/D1TC04738H](https://doi.org/10.1039/D1TC04738H)
 
 1. **Dahule R.**, Raghav A., Hanindriyo A. T., Hongo K., Maezono R., & Panda E.
-  *Surface study of Cu₂SnS₃ using first-principles density functional theory*  
+  *Surface study of Cu<sub>2</sub>SnS<sub>3</sub> using first-principles density functional theory*  
   **Advanced Theory and Simulations**, 4(6), 2000315 (2021).  
   DOI: [10.1002/adts.202000315](https://doi.org/10.1002/adts.202000315)
 
@@ -91,9 +91,9 @@ permalink: /publications/
    **JSAP Spring Meeting 2023**, Tokyo, Japan.
 
 1. **Dahule R.**, Hongo K., Maezono R.  
-   *Surface electronic properties of Cu₂SnS₃ using density functional theory*  
+   *Surface electronic properties of Cu<sub>2</sub>SnS<sub>3</sub> using density functional theory*  
    **JPS Spring Meeting 2023**, Japan.
 
 1. **Dahule R.**, Hongo K., Maezono R., & Panda E.  
-   *First-principles study of Cu₂SnS₃ surface properties*  
+   *First-principles study of Cu<sub>2</sub>SnS<sub>3</sub> surface properties*  
    **IUMRS-ICYRAM 2022**, Fukuoka, Japan.
