@@ -52,7 +52,7 @@ permalink: /publications/
 
 1. Sahara R., Saengdeejing A., Manjanath A., **Dahule R.**, Ueda K., Narushima T., Yamabe-Mitarai Y., Ohno K., Kawazoe Y.
    *Theoretical design of structural materials*
-   **The 44th Samahang Pisika ng Pilipinas (SPP) Physics Conference and Annual Meeting**, Los Baños, Philippines, 2026
+   **The 44th Samahang Pisikang Pilipinas (SPP) Physics Conference and Annual Meeting**, Los Baños, Philippines, 2026
 
 1. Nakatani T., **Dahule R.**, Suwannaharn N., Sasaki T., & Sahara R.  
    *CoSn pseudo-one-dimensional conductor: potential and challenges for interconnect applications*  
