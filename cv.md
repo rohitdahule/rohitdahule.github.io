@@ -12,9 +12,9 @@ You can download my full CV here:
 
 ## Education
 
-- PhD in Materials Science, JAIST, Japan 2025
-- M.Tech in Materials Science and Engineering, IIT Gandhinagar, India, 2020
-- B.E. in Mechanical Engineering, Rajiv Gandhi College of Engineering, Research and Technology, India,2016
+- PhD in Materials Science, JAIST, Japan, 2025
+- M.Tech. in Materials Science and Engineering, IIT Gandhinagar, India, 2020
+- B.E. in Mechanical Engineering, Rajiv Gandhi College of Engineering, Research and Technology, India, 2016
 
 ## Appointments
 
