@@ -8,7 +8,7 @@ National Institute for Materials Science (NIMS), Japan
 
 I am a researcher working in computational materials science, with a focus on density functional theory (DFT) and atomistic simulations. My work explores surface properties, microstructure, and lattice dynamics of materials, including the use of machine learning potentials and first-principles methods.
 
-[<img src="/assets/icon/ResearchGate.svg" width="32">](https://www.researchgate.net/profile/Rohit-Dahule-2?ev=hdr_xprf)  [<img src="/assets/icon/GoogleScholar.svg" width="32">](https://scholar.google.com/citations?hl=en&user=tWwXWtMAAAAJ)  [<img src="/assets/icon/linkedin.svg" width="32">](https://www.linkedin.com/in/rohit-dahule/)
+[<img src="/assets/icon/ResearchGate.svg" width="32">](https://www.researchgate.net/profile/Rohit-Dahule-2?ev=hdr_xprf)  [<img src="/assets/icon/GoogleScholar.svg" width="32">](https://scholar.google.com/citations?hl=en&user=tWwXWtMAAAAJ)  [<img src="/assets/icon/linkedin.svg" width="32">](https://www.linkedin.com/in/rohit-dahule/)  [<img src="/assets/icon/ORCID_iD.svg" width="32">](https://orcid.org/0000-0002-2768-8808)
 
 ---
 
