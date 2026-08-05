@@ -1,14 +1,14 @@
 ---
 layout: page
-title: CV
+title: Academic Profile
 permalink: /cv/
 ---
 
-<!-- # Curriculum Vitae -->
+<!-- # Curriculum Vitae
 
 You can download my full CV here:
 
-[Download CV](../files/cv.pdf)
+[Download CV](../files/cv.pdf)  -->
 
 ## Education
 
