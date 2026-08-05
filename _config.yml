@@ -6,9 +6,9 @@ author: "Rohit Dahule"
 email: "rohitdahule23@gmail.com"
 
 header_pages:
+  - cv.md
   - research.md
   - publications.md
   - tutorials.md
-  - cv.md
   - gallery.md
   - contact.md
