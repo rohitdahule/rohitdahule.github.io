@@ -50,17 +50,17 @@ permalink: /publications/
 
 ## Conference Presentation
 
-1. **Dahule R.**, Gollapalli A., Singh A. K., Saengdeejing A., Chikyow T., Sahara R., & Ohno K.
-   *Microstructure Evolution in Ni-Al Alloys Using First-Principles Phase Field Modeling*
+1. **Dahule R.**, Gollapalli A., Singh A. K., Saengdeejing A., Chikyow T., Sahara R., & Ohno K.  
+   *Microstructure Evolution in Ni-Al Alloys Using First-Principles Phase Field Modeling*  
    **MRS Fall Meeting & Exhibit 2026**, Boston, MA, USA. (Abstract accepted (Poster Presentation))
    
-1. **Dahule R.**, Gollapalli A., Singh A. K., Saengdeejing A., Chikyow T., Sahara R., & Ohno K.
-   *Predictive Modeling of Room-Temperature Microstructures in Ni-Al Binary Alloys Using First-Principles Phase Field Simulations*
+1. **Dahule R.**, Gollapalli A., Singh A. K., Saengdeejing A., Chikyow T., Sahara R., & Ohno K.  
+   *Predictive Modeling of Room-Temperature Microstructures in Ni-Al Binary Alloys Using First-Principles Phase Field Simulations*  
    **JIMM Annual Fall Meeting 2026**, Akita, Japan. (Abstract accepted)
 
-1. Sahara R., Saengdeejing A., Manjanath A., **Dahule R.**, Ueda K., Narushima T., Yamabe-Mitarai Y., Ohno K., Kawazoe Y.
-   *Theoretical design of structural materials*
-   **The 44th Samahang Pisikang Pilipinas (SPP) Physics Conference and Annual Meeting**, Los Baños, Philippines, 2026
+1. Sahara R., Saengdeejing A., Manjanath A., **Dahule R.**, Ueda K., Narushima T., Yamabe-Mitarai Y., Ohno K., Kawazoe Y.  
+   *Theoretical design of structural materials*  
+   **The 44th Samahang Pisikang Pilipinas (SPP) Physics Conference and Annual Meeting 2026**, Los Baños, Philippines.  
 
 1. Nakatani T., **Dahule R.**, Suwannaharn N., Sasaki T., & Sahara R.  
    *CoSn pseudo-one-dimensional conductor: potential and challenges for interconnect applications*  
@@ -76,7 +76,7 @@ permalink: /publications/
 
 1. Sahara R., **Dahule R.**, Pham T. M., Bhattacharyya S., Kuwahara R., & Ohno K.  
    *First-principles phase field method of microstructures in high-temperature alloys*  
-   **E-MRS 2025 Fall Meeting**, Warsaw, Poland.
+   **E-MRS Fall Meeting 2025**, Warsaw, Poland.
 
 1. Nakatani T., Suwannaharn N., **Dahule R.**, Sasaki T., & Sahara R.  
    *Demonstration of anisotropic resistivity in CoSn kagome metal thin films*  
