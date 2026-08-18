@@ -1,0 +1,54 @@
+/* ================================================================
+   DROPDOWN NAVIGATION
+   ----------------------------------------------------------------
+   Used by dropdown menus such as:
+   Publications
+      Journal
+      Conference
+   ================================================================ */
+
+.nav-dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+
+/* Dropdown box -- hidden normally */
+.nav-dropdown-content {
+  display: none;
+
+  position: absolute;
+  top: 100%;
+  left: 0;
+
+  min-width: 150px;
+
+  background-color: #ffffff;
+  border: 1px solid #dddddd;
+
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.10);
+
+  z-index: 1000;
+}
+
+
+/* Individual submenu links */
+.nav-dropdown-content a {
+  display: block;
+
+  padding: 8px 14px;
+
+  color: #333333;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+/* Highlight submenu item when mouse is over it */
+.nav-dropdown-content a:hover {
+  background-color: #f5f5f5;
+}
+
+/* Show dropdown when mouse is over Publications */
+.nav-dropdown:hover .nav-dropdown-content {
+  display: block;
+}
