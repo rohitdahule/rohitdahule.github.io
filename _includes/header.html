@@ -2,26 +2,29 @@
 
   <div class="wrapper">
 
-    <!-- ============================================================
+    <!-- =========================================================
          SITE TITLE
-         ============================================================ -->
+         ========================================================= -->
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
       {{ site.title | escape }}
     </a>
 
 
-    <!-- ============================================================
-         NAVIGATION
-         ============================================================ -->
-
+    <!-- =========================================================
+         GET HEADER PAGES FROM _config.yml
+         ========================================================= -->
     {%- assign page_paths = site.header_pages | default: default_paths -%}
 
     {%- if page_paths -%}
 
     <nav class="site-nav">
 
-      <!-- Minima mobile menu button -->
+      <!-- =======================================================
+           MINIMA MOBILE MENU
+           Keep this section.
+           ======================================================= -->
       <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+
       <label for="nav-trigger">
         <span class="menu-icon">
           <svg viewBox="0 0 18 15" width="18px" height="15px">
@@ -42,9 +45,11 @@
 
       <div class="trigger">
 
-        <!-- ========================================================
-             LOOP THROUGH PAGES FROM _config.yml
-             Example:
+        <!-- =====================================================
+             CREATE HEADER ITEMS
+
+             Pages come from _config.yml:
+
              header_pages:
                - cv.md
                - research.md
@@ -52,7 +57,7 @@
                - tutorials.md
                - gallery.md
                - contact.md
-             ======================================================== -->
+             ===================================================== -->
 
         {%- for path in page_paths -%}
 
@@ -61,18 +66,19 @@
           {%- if my_page.title -%}
 
 
-            <!-- ====================================================
-                 PUBLICATIONS DROPDOWN:ACTIVE
-                 This creates:
-                 Publications ▾
-                    Journal
-                    Conference
-                 The links jump to headings inside publications.md.
-                 ==================================================== -->
+            <!-- =================================================
+                 PUBLICATIONS
+
+                 Publications gets a dropdown.
+
+                 IMPORTANT:
+                 <span> is used instead of <div> so that Minima
+                 keeps the navigation items in one horizontal row.
+                 ================================================= -->
 
             {%- if path == "publications.md" -%}
 
-              <div class="nav-dropdown">
+              <span class="nav-dropdown">
 
                 <!-- Main Publications link -->
                 <a class="page-link"
@@ -81,96 +87,30 @@
                 </a>
 
 
-                <!-- Publications submenu -->
-                <div class="nav-dropdown-content">
+                <!-- Dropdown menu -->
+                <span class="nav-dropdown-content">
 
-                  <!--
-                    This points to:   ## Journal inside publications.md
-                  -->
-                  
+                  <!-- Goes to: ## Journal -->
                   <a href="{{ my_page.url | relative_url }}#journal">
                     Journal
                   </a>
 
-
-                  <!--
-                    This points to: ## Conference inside publications.md
-                  -->
-                  
+                  <!-- Goes to: ## Conference -->
                   <a href="{{ my_page.url | relative_url }}#conference">
                     Conference
                   </a>
 
-                </div>
+                </span>
 
-              </div>
-
-
-            <!-- ====================================================
-                 TUTORIALS DROPDOWN : CURRENTLY COMMENTED OUT / DISABLED.
-
-                 When you want to enable it:
-                      1. Remove the Liquid comment tags around the elsif section below.
-                      2. Change/add the submenu names.
-                      3. Make sure tutorials.md contains matching headings,
-                    for example:
-                       ## Python
-                       ## Machine Learning
-                       ## Linux
-                 ==================================================== -->
+              </span>
 
 
-            {% comment %}
+            <!-- =================================================
+                 ALL OTHER PAGES
 
-            {%- elsif path == "tutorials.md" -%}
-
-              <div class="nav-dropdown">
-
-                <a class="page-link"
-                   href="{{ my_page.url | relative_url }}">
-                  {{ my_page.title | escape }} ▾
-                </a>
-
-
-                <div class="nav-dropdown-content">
-
-                  <!-- Goes to: ## Python -->
-                  <a href="{{ my_page.url | relative_url }}#python">
-                    Python
-                  </a>
-
-
-                  <!-- Goes to: ## Machine Learning -->
-                  <a href="{{ my_page.url | relative_url }}#machine-learning">
-                    Machine Learning
-                  </a>
-
-
-                  <!-- Goes to: ## Linux -->
-                  <a href="{{ my_page.url | relative_url }}#linux">
-                    Linux
-                  </a>
-
-                </div>
-
-              </div>
-
-            {% endcomment %}
-
-
-            <!-- ====================================================
-                 NORMAL HEADER PAGES
-                 All pages that do NOT have a dropdown are handled
-                 here automatically.
-                 For example:
-                   CV
-                   Research
-                   Tutorials   <-- currently normal
-                   Gallery
-                   Contact
-                 You do NOT need to manually add these pages here.
-                 They come from header_pages in _config.yml.
-                 ==================================================== -->
+                 CV, Research, Tutorials, Gallery and Contact
+                 remain normal Minima navigation links.
+                 ================================================= -->
 
             {%- else -%}
 
@@ -195,3 +135,51 @@
   </div>
 
 </header>
+
+
+{% comment %}
+
+=============================================================
+FUTURE: TUTORIALS DROPDOWN
+=============================================================
+
+DO NOT add this code yet.
+
+When you want Tutorials to have a dropdown, add an "elsif"
+BEFORE the "{%- else -%}" above.
+
+Example:
+
+{%- elsif path == "tutorials.md" -%}
+
+  <span class="nav-dropdown">
+
+    <a class="page-link"
+       href="{{ my_page.url | relative_url }}">
+      {{ my_page.title | escape }} ▾
+    </a>
+
+    <span class="nav-dropdown-content">
+
+      <a href="{{ my_page.url | relative_url }}#python">
+        Python
+      </a>
+
+      <a href="{{ my_page.url | relative_url }}#machine-learning">
+        Machine Learning
+      </a>
+
+      <a href="{{ my_page.url | relative_url }}#linux">
+        Linux
+      </a>
+
+    </span>
+
+  </span>
+
+The existing dropdown.scss can be reused.
+You DO NOT need another CSS file.
+
+=============================================================
+
+{% endcomment %}
