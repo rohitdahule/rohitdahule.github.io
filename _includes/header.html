@@ -1,0 +1,197 @@
+<header class="site-header" role="banner">
+
+  <div class="wrapper">
+
+    <!-- ============================================================
+         SITE TITLE
+         ============================================================ -->
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+      {{ site.title | escape }}
+    </a>
+
+
+    <!-- ============================================================
+         NAVIGATION
+         ============================================================ -->
+
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+
+    {%- if page_paths -%}
+
+    <nav class="site-nav">
+
+      <!-- Minima mobile menu button -->
+      <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+      <label for="nav-trigger">
+        <span class="menu-icon">
+          <svg viewBox="0 0 18 15" width="18px" height="15px">
+            <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484
+                     C0.665,2.969,0,2.304,0,1.484C0,0.665,0.665,0,
+                     1.484,0h15.032C17.335,0,18,0.665,18,1.484z
+                     M18,7.516C18,8.335,17.335,9,16.516,9H1.484
+                     C0.665,9,0,8.335,0,7.516c0-0.82,0.665-1.484,
+                     1.484-1.484h15.032C17.335,6.031,18,6.696,
+                     18,7.516z M18,13.516C18,14.335,17.335,15,
+                     16.516,15H1.484C0.665,15,0,14.335,0,
+                     13.516c0-0.82,0.665-1.484,1.484-1.484
+                     h15.032C17.335,12.031,18,12.696,18,13.516z"/>
+          </svg>
+        </span>
+      </label>
+
+
+      <div class="trigger">
+
+        <!-- ========================================================
+             LOOP THROUGH PAGES FROM _config.yml
+             Example:
+             header_pages:
+               - cv.md
+               - research.md
+               - publications.md
+               - tutorials.md
+               - gallery.md
+               - contact.md
+             ======================================================== -->
+
+        {%- for path in page_paths -%}
+
+          {%- assign my_page = site.pages | where: "path", path | first -%}
+
+          {%- if my_page.title -%}
+
+
+            <!-- ====================================================
+                 PUBLICATIONS DROPDOWN:ACTIVE
+                 This creates:
+                 Publications ▾
+                    Journal
+                    Conference
+                 The links jump to headings inside publications.md.
+                 ==================================================== -->
+
+            {%- if path == "publications.md" -%}
+
+              <div class="nav-dropdown">
+
+                <!-- Main Publications link -->
+                <a class="page-link"
+                   href="{{ my_page.url | relative_url }}">
+                  {{ my_page.title | escape }} ▾
+                </a>
+
+
+                <!-- Publications submenu -->
+                <div class="nav-dropdown-content">
+
+                  <!--
+                    This points to:   ## Journal inside publications.md
+                  -->
+                  
+                  <a href="{{ my_page.url | relative_url }}#journal">
+                    Journal
+                  </a>
+
+
+                  <!--
+                    This points to: ## Conference inside publications.md
+                  -->
+                  
+                  <a href="{{ my_page.url | relative_url }}#conference">
+                    Conference
+                  </a>
+
+                </div>
+
+              </div>
+
+
+            <!-- ====================================================
+                 TUTORIALS DROPDOWN : CURRENTLY COMMENTED OUT / DISABLED.
+
+                 When you want to enable it:
+                      1. Remove the Liquid comment tags around the elsif section below.
+                      2. Change/add the submenu names.
+                      3. Make sure tutorials.md contains matching headings,
+                    for example:
+                       ## Python
+                       ## Machine Learning
+                       ## Linux
+                 ==================================================== -->
+
+
+            {% comment %}
+
+            {%- elsif path == "tutorials.md" -%}
+
+              <div class="nav-dropdown">
+
+                <a class="page-link"
+                   href="{{ my_page.url | relative_url }}">
+                  {{ my_page.title | escape }} ▾
+                </a>
+
+
+                <div class="nav-dropdown-content">
+
+                  <!-- Goes to: ## Python -->
+                  <a href="{{ my_page.url | relative_url }}#python">
+                    Python
+                  </a>
+
+
+                  <!-- Goes to: ## Machine Learning -->
+                  <a href="{{ my_page.url | relative_url }}#machine-learning">
+                    Machine Learning
+                  </a>
+
+
+                  <!-- Goes to: ## Linux -->
+                  <a href="{{ my_page.url | relative_url }}#linux">
+                    Linux
+                  </a>
+
+                </div>
+
+              </div>
+
+            {% endcomment %}
+
+
+            <!-- ====================================================
+                 NORMAL HEADER PAGES
+                 All pages that do NOT have a dropdown are handled
+                 here automatically.
+                 For example:
+                   CV
+                   Research
+                   Tutorials   <-- currently normal
+                   Gallery
+                   Contact
+                 You do NOT need to manually add these pages here.
+                 They come from header_pages in _config.yml.
+                 ==================================================== -->
+
+            {%- else -%}
+
+              <a class="page-link"
+                 href="{{ my_page.url | relative_url }}">
+                {{ my_page.title | escape }}
+              </a>
+
+            {%- endif -%}
+
+
+          {%- endif -%}
+
+        {%- endfor -%}
+
+      </div>
+
+    </nav>
+
+    {%- endif -%}
+
+  </div>
+
+</header>
