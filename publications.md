@@ -51,6 +51,10 @@ permalink: /publications/
 ## Conference Presentation
 
 1. **Dahule R.**, Gollapalli A., Singh A. K., Saengdeejing A., Chikyow T., Sahara R., & Ohno K.
+   *Microstructure Evolution in Ni-Al Alloys Using First-Principles Phase Field Modeling*
+   **MRS Fall Meeting & Exhibit 2026**, Akita, Japan. (Abstract accepted (Poster Presentation))
+   
+1. **Dahule R.**, Gollapalli A., Singh A. K., Saengdeejing A., Chikyow T., Sahara R., & Ohno K.
    *Predictive Modeling of Room-Temperature Microstructures in Ni-Al Binary Alloys Using First-Principles Phase Field Simulations*
    **JIMM Annual Fall Meeting 2026**, Akita, Japan. (Abstract accepted)
 
