@@ -1,0 +1,78 @@
+/* ============================================================
+   DROPDOWN NAVIGATION FOR MINIMA
+   ============================================================
+
+   Used for:
+      Publications
+         ├── Journal
+         └── Conference
+
+   This same CSS can later be used for Tutorials, Research, etc.
+   ============================================================ */
+
+
+/* Main dropdown container */
+.nav-dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+
+/* ------------------------------------------------------------
+   Dropdown menu
+
+   Hidden until the user hovers over the parent.
+   ------------------------------------------------------------ */
+.nav-dropdown-content {
+  display: none;
+
+  position: absolute;
+
+  /* Place menu immediately below Publications */
+  top: 100%;
+  left: 0;
+
+  min-width: 150px;
+
+  background-color: #ffffff;
+
+  border: 1px solid #dddddd;
+
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.10);
+
+  /* Keep dropdown above page content */
+  z-index: 1000;
+}
+
+
+/* ------------------------------------------------------------
+   Links inside dropdown
+   ------------------------------------------------------------ */
+.nav-dropdown-content a {
+  display: block;
+
+  padding: 8px 14px;
+
+  color: #333333;
+
+  text-decoration: none;
+
+  /* Prevent Journal / Conference from wrapping */
+  white-space: nowrap;
+}
+
+
+/* Highlight dropdown item on hover */
+.nav-dropdown-content a:hover {
+  background-color: #f5f5f5;
+}
+
+
+/* ------------------------------------------------------------
+   SHOW DROPDOWN
+
+   When mouse is over Publications, show submenu.
+   ------------------------------------------------------------ */
+.nav-dropdown:hover .nav-dropdown-content {
+  display: block;
+}
