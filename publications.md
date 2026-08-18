@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-## Journal publications
+## Journal publications {#journal}
 
 1. Dotiyal M., **Dahule R.**, Hongo K., Ichiba T., Maezono R., & Panda E.  
   *Dopant induced variation in electronic structure, crystal structure, and electrical properties in VO<sub>2</sub>: Correlation between Theory and Experiment*  
@@ -48,7 +48,7 @@ permalink: /publications/
 
 ---
 
-## Conference Presentation
+## Conference Presentation {#conference}
 
 1. **Dahule R.**, Gollapalli A., Singh A. K., Saengdeejing A., Chikyow T., Sahara R., & Ohno K.  
    *Microstructure Evolution in Ni-Al Alloys Using First-Principles Phase Field Modeling*  
