@@ -1,0 +1,185 @@
+<header class="site-header" role="banner">
+
+  <div class="wrapper">
+
+    <!-- =========================================================
+         SITE TITLE
+         ========================================================= -->
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+      {{ site.title | escape }}
+    </a>
+
+
+    <!-- =========================================================
+         GET HEADER PAGES FROM _config.yml
+         ========================================================= -->
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+
+    {%- if page_paths -%}
+
+    <nav class="site-nav">
+
+      <!-- =======================================================
+           MINIMA MOBILE MENU
+           Keep this section.
+           ======================================================= -->
+      <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+
+      <label for="nav-trigger">
+        <span class="menu-icon">
+          <svg viewBox="0 0 18 15" width="18px" height="15px">
+            <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484
+                     C0.665,2.969,0,2.304,0,1.484C0,0.665,0.665,0,
+                     1.484,0h15.032C17.335,0,18,0.665,18,1.484z
+                     M18,7.516C18,8.335,17.335,9,16.516,9H1.484
+                     C0.665,9,0,8.335,0,7.516c0-0.82,0.665-1.484,
+                     1.484-1.484h15.032C17.335,6.031,18,6.696,
+                     18,7.516z M18,13.516C18,14.335,17.335,15,
+                     16.516,15H1.484C0.665,15,0,14.335,0,
+                     13.516c0-0.82,0.665-1.484,1.484-1.484
+                     h15.032C17.335,12.031,18,12.696,18,13.516z"/>
+          </svg>
+        </span>
+      </label>
+
+
+      <div class="trigger">
+
+        <!-- =====================================================
+             CREATE HEADER ITEMS
+
+             Pages come from _config.yml:
+
+             header_pages:
+               - cv.md
+               - research.md
+               - publications.md
+               - tutorials.md
+               - gallery.md
+               - contact.md
+             ===================================================== -->
+
+        {%- for path in page_paths -%}
+
+          {%- assign my_page = site.pages | where: "path", path | first -%}
+
+          {%- if my_page.title -%}
+
+
+            <!-- =================================================
+                 PUBLICATIONS
+
+                 Publications gets a dropdown.
+
+                 IMPORTANT:
+                 <span> is used instead of <div> so that Minima
+                 keeps the navigation items in one horizontal row.
+                 ================================================= -->
+
+            {%- if path == "publications.md" -%}
+
+              <span class="nav-dropdown">
+
+                <!-- Main Publications link -->
+                <a class="page-link"
+                   href="{{ my_page.url | relative_url }}">
+                  {{ my_page.title | escape }} ▾
+                </a>
+
+
+                <!-- Dropdown menu -->
+                <span class="nav-dropdown-content">
+
+                  <!-- Goes to: ## Journal -->
+                  <a href="{{ my_page.url | relative_url }}#journal">
+                    Journal
+                  </a>
+
+                  <!-- Goes to: ## Conference -->
+                  <a href="{{ my_page.url | relative_url }}#conference">
+                    Conference
+                  </a>
+
+                </span>
+
+              </span>
+
+
+            <!-- =================================================
+                 ALL OTHER PAGES
+
+                 CV, Research, Tutorials, Gallery and Contact
+                 remain normal Minima navigation links.
+                 ================================================= -->
+
+            {%- else -%}
+
+              <a class="page-link"
+                 href="{{ my_page.url | relative_url }}">
+                {{ my_page.title | escape }}
+              </a>
+
+            {%- endif -%}
+
+
+          {%- endif -%}
+
+        {%- endfor -%}
+
+      </div>
+
+    </nav>
+
+    {%- endif -%}
+
+  </div>
+
+</header>
+
+
+{% comment %}
+
+=============================================================
+FUTURE: TUTORIALS DROPDOWN
+=============================================================
+
+DO NOT add this code yet.
+
+When you want Tutorials to have a dropdown, add an "elsif"
+BEFORE the "{%- else -%}" above.
+
+Example:
+
+{%- elsif path == "tutorials.md" -%}
+
+  <span class="nav-dropdown">
+
+    <a class="page-link"
+       href="{{ my_page.url | relative_url }}">
+      {{ my_page.title | escape }} ▾
+    </a>
+
+    <span class="nav-dropdown-content">
+
+      <a href="{{ my_page.url | relative_url }}#python">
+        Python
+      </a>
+
+      <a href="{{ my_page.url | relative_url }}#machine-learning">
+        Machine Learning
+      </a>
+
+      <a href="{{ my_page.url | relative_url }}#linux">
+        Linux
+      </a>
+
+    </span>
+
+  </span>
+
+The existing dropdown.scss can be reused.
+You DO NOT need another CSS file.
+
+=============================================================
+
+{% endcomment %}
