@@ -56,7 +56,7 @@ permalink: /publications/
    
 1. **Dahule R.**, Gollapalli A., Singh A. K., Saengdeejing A., Chikyow T., Sahara R., & Ohno K.  
    *Predictive Modeling of Room-Temperature Microstructures in Ni-Al Binary Alloys Using First-Principles Phase Field Simulations*  
-   **JIMM Annual Fall Meeting 2026**, Akita, Japan. (Abstract accepted)
+   **JIMM Annual Fall Meeting 2026**, Akita, Japan.
 
 1. Sahara R., Saengdeejing A., Manjanath A., **Dahule R.**, Ueda K., Narushima T., Yamabe-Mitarai Y., Ohno K., Kawazoe Y.  
    *Theoretical design of structural materials*  
