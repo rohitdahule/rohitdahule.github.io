@@ -6,6 +6,10 @@ permalink: /publications/
 
 ## Journal publications {#journal}
 
+<!-- 1. Nakatani T., **Dahule R.**, Suwannaharn N., Sasaki T., & Sahara R.
+   *Orientation-controlled epitaxy of CoSn anisotropic conductive thin films on sapphire substrates toward interconnect applications*
+   **J. Appl. Phys.** (2026, Accepted) -->
+
 1. Dotiyal M., **Dahule R.**, Hongo K., Ichiba T., Maezono R., & Panda E.  
   *Dopant induced variation in electronic structure, crystal structure, and electrical properties in VO<sub>2</sub>: Correlation between Theory and Experiment*  
   **Journal of Alloys and Compounds**, 189095 (2026).  
