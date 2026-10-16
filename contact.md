@@ -6,9 +6,9 @@ permalink: /contact/
 
 <img src="/assets/images/linkedin.jpg"
      alt="Rohit Dahule"
-     width="120"
+     width="100"
      align="right"
-     style="float: right; margin: 0 40px 10px 10px; border-radius: 6px;"
+     style="float: right; margin: 0 100px 10px 10px; border-radius: 6px;"
      >
 
 ### Rohit Dahule
