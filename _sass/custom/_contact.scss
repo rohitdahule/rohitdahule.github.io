@@ -1,0 +1,22 @@
+.contact-container {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 150px;
+    gap: 30px;
+    align-items: start;
+}
+
+.contact-photo {
+    width: 150px;
+    height: auto;
+    border-radius: 8px;
+}
+
+.contact-info h3 {
+    margin-top: 0;
+}
+
+@media (max-width: 480px) {
+    .contact-container {
+        grid-template-columns: 1fr;
+    }
+}
