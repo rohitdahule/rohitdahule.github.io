@@ -7,8 +7,8 @@ permalink: /publications/
 ## Journal publications {#journal}
 
 1. Nakatani T., **Dahule R.**, Suwannaharn N.,Pütkül M. D., Ikeda Y., Sasaki T. T., & Sahara R.
-   *Orientation-controlled epitaxy of CoSn anisotropic conductive thin films on sapphire substrates toward interconnect applications*
-   **J. Appl. Phys.** 140, 155101 (2026).
+  *Orientation-controlled epitaxy of CoSn anisotropic conductive thin films on sapphire substrates toward interconnect applications*   
+   **Journal of Applied Physics**, 140, 155101 (2026).
    DOI: [10.1063/5.0352862](https://doi.org/10.1063/5.0352862)
 
 1. Dotiyal M., **Dahule R.**, Hongo K., Ichiba T., Maezono R., & Panda E.  
