@@ -114,3 +114,22 @@ permalink: /publications/
 1. **Dahule R.**, Hongo K., Maezono R., & Panda E.  
    *First-principles study of Cu<sub>2</sub>SnS<sub>3</sub> surface properties*  
    **IUMRS-ICYRAM 2022**, Fukuoka, Japan.
+
+
+## Talks and Seminars {#Talks}
+1. Sahara R., Saengdeejing A., Manjanath A., **Dahule R.**
+   A multi-scale modelling without empirical parameter to design structural materials.
+   **Materials Science and Metallurgical Engineering Special Seminar 2026** IIT Hyderabad, India
+   (Presenter: R. Sahara)
+1. **Dahule R.**,
+   Ab initio study of surface and interface properties,
+   **Department of Metallurgical and Materials Engineering, Indian Institute of Technology Madras**, Chennai, India (2024).
+   (Presenter: Rohit Dahule)
+1. **Dahule R.**,
+   Ab initio study of surface and interface properties,
+   **ICCMS, Jilin University**, Changchun, China (2023).
+   (Presenter: Rohit Dahule)
+
+   
+   
+   
