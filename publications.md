@@ -55,71 +55,79 @@ permalink: /publications/
 
 ## Conference Presentation {#conference}
 
-1. **Dahule R.**, Gollapalli A., Singh A. K., Saengdeejing A., Chikyow T., Sahara R., & Ohno K.  
-   *Microstructure Evolution in Ni-Al Alloys Using First-Principles Phase Field Modeling*  
+1. **Dahule R.**, Gollapalli A., Singh A. K., Saengdeejing A., Chikyow T., Sahara R., & Ohno K.,  
+   *Microstructure Evolution in Ni-Al Alloys Using First-Principles Phase Field Modeling*,
    **MRS Fall Meeting & Exhibit 2026**, Boston, MA, USA. (Abstract accepted (Poster Presentation))
+
+1. **Dahule R.**,  
+   *Microstructure Prediction of Ni-Al Alloys Using First-Principles Phase Field Method*,
+   **RCSM research report meeting**, NIMS, Tsukuba, Japan, 2026. (Poster presentation)
+
+1. Nakatani T., Sur K., Pütkül M. D., Ikeda Y., Suwannaharn N., **Dahule R.**, Sasaki T. \& Sahara R., 
+   *Epitaxial CoSn thin films on 300-mm-compatible substrates*,
+    **Advanced Metallization Conference 2026**, Tokyo, Japan. 
    
-1. **Dahule R.**, Gollapalli A., Singh A. K., Saengdeejing A., Chikyow T., Sahara R., & Ohno K.  
-   *Predictive Modeling of Room-Temperature Microstructures in Ni-Al Binary Alloys Using First-Principles Phase Field Simulations*  
+1. **Dahule R.**, Gollapalli A., Singh A. K., Saengdeejing A., Chikyow T., Sahara R., & Ohno K.,  
+   *Predictive Modeling of Room-Temperature Microstructures in Ni-Al Binary Alloys Using First-Principles Phase Field Simulations*,  
    **JIMM Annual Fall Meeting 2026**, Akita, Japan.
 
-1. Sahara R., Saengdeejing A., Manjanath A., **Dahule R.**, Ueda K., Narushima T., Yamabe-Mitarai Y., Ohno K., Kawazoe Y.  
-   *Theoretical design of structural materials*  
+1. Sahara R., Saengdeejing A., Manjanath A., **Dahule R.**, Ueda K., Narushima T., Yamabe-Mitarai Y., Ohno K., Kawazoe Y.,  
+   *Theoretical design of structural materials*,  
    **The 44th Samahang Pisikang Pilipinas (SPP) Physics Conference and Annual Meeting 2026**, Los Baños, Philippines.  
 
-1. Nakatani T., **Dahule R.**, Suwannaharn N., Sasaki T., & Sahara R.  
-   *CoSn pseudo-one-dimensional conductor: potential and challenges for interconnect applications*  
+1. Nakatani T., **Dahule R.**, Suwannaharn N., Sasaki T., & Sahara R.,  
+   *CoSn pseudo-one-dimensional conductor: potential and challenges for interconnect applications*,  
    **IEEE International Interconnect Technology Conference 2026**, San Jose, CA, USA.
 
-1. **Dahule R.**, Gollapalli A., Singh A. K., Saengdeejing A., Chikyow T., Sahara R., & Ohno K.  
-   *First-principles phase field prediction of the Ni-Al alloy microstructures at room temperature*  
+1. **Dahule R.**, Gollapalli A., Singh A. K., Saengdeejing A., Chikyow T., Sahara R., & Ohno K.,  
+   *First-principles phase field prediction of the Ni-Al alloy microstructures at room temperature*,  
    **APS Global Physics Summit 2026**, Denver, CO, USA.
 
-1. Nakatani T., Suwannaharn N., **Dahule R.**, Sasaki T., & Sahara R.  
-   *Single crystalline CoSn kagome metal thin films for interconnect applications*  
+1. Nakatani T., Suwannaharn N., **Dahule R.**, Sasaki T., & Sahara R.,  
+   *Single crystalline CoSn kagome metal thin films for interconnect applications*,  
    **JSAP Spring Meeting 2026**, Tokyo, Japan.
 
-1. Sahara R., **Dahule R.**, Pham T. M., Bhattacharyya S., Kuwahara R., & Ohno K.  
-   *First-principles phase field method of microstructures in high-temperature alloys*  
+1. Sahara R., **Dahule R.**, Pham T. M., Bhattacharyya S., Kuwahara R., & Ohno K.,  
+   *First-principles phase field method of microstructures in high-temperature alloys*,  
    **E-MRS Fall Meeting 2025**, Warsaw, Poland.
 
-1. Nakatani T., Suwannaharn N., **Dahule R.**, Sasaki T., & Sahara R.  
-   *Demonstration of anisotropic resistivity in CoSn kagome metal thin films*  
+1. Nakatani T., Suwannaharn N., **Dahule R.**, Sasaki T., & Sahara R.,  
+   *Demonstration of anisotropic resistivity in CoSn kagome metal thin films*,  
    **Advanced Metallization Conference 2025**, Tokyo, Japan.
 
-1. **Dahule R.**, Hongo K., & Maezono R.  
+1. **Dahule R.**, Hongo K., & Maezono R.,  
    *Stability and electronic properties of SnS/ZnS interfaces for thin-film solar cells: a first-principles study*  
    **JPS Annual Meeting 2024**, Sapporo, Japan.
 
-1. **Dahule R.**, Oqmhula K., Maezono R., & Hongo K.  
-   *Physics-informed data-driven discovery of high thermal conductive polymer crystals*  
+1. **Dahule R.**, Oqmhula K., Maezono R., & Hongo K.,  
+   *Physics-informed data-driven discovery of high thermal conductive polymer crystals*,  
    **JSAP Spring Meeting 2024**, Tokyo, Japan.
 
-1. **Dahule R.**, Oqmhula K., Maezono R., & Hongo K.  
-   *High-throughput virtual screening for high thermal conductivity polymer crystals using first-principles calculation*  
+1. **Dahule R.**, Oqmhula K., Maezono R., & Hongo K.,  
+   *High-throughput virtual screening for high thermal conductivity polymer crystals using first-principles calculation*,  
    **APS March Meeting 2024**, Minneapolis, USA.
 
-1. **Dahule R.**, Singh C. C., Panda E., Hongo K., & Maezono R.  
-   *Influences of native defect on bulk and surface electronic properties of SnS: an experimental and first-principles study*  
+1. **Dahule R.**, Singh C. C., Panda E., Hongo K., & Maezono R.,  
+   *Influences of native defect on bulk and surface electronic properties of SnS: an experimental and first-principles study*,  
    **APS March Meeting 2023**, Las Vegas, USA.
 
-1. **Dahule R.**, Hongo K., Maezono R.  
-   *First-principles simulation of electronic structure of bulk and surfaces SnS*  
+1. **Dahule R.**, Hongo K., Maezono R.,  
+   *First-principles simulation of electronic structure of bulk and surfaces SnS*,  
    **JSAP Spring Meeting 2023**, Tokyo, Japan.
 
-1. **Dahule R.**, Hongo K., Maezono R.  
-   *Surface electronic properties of Cu<sub>2</sub>SnS<sub>3</sub> using density functional theory*  
-   **JPS Spring Meeting 2023**, Japan.
+1. **Dahule R.**, Hongo K., Maezono R.,  
+   *Surface electronic properties of Cu<sub>2</sub>SnS<sub>3</sub> using density functional theory*,  
+   **JPS Spring Meeting 2023**, Japan. (Online)
 
-1. **Dahule R.**, Hongo K., Maezono R., & Panda E.  
-   *First-principles study of Cu<sub>2</sub>SnS<sub>3</sub> surface properties*  
+1. **Dahule R.**, Hongo K., Maezono R., & Panda E.,  
+   *First-principles study of Cu<sub>2</sub>SnS<sub>3</sub> surface properties*,  
    **IUMRS-ICYRAM 2022**, Fukuoka, Japan.
 
 
 ## Talks and Seminars {#Talks}
-1. Sahara R., Saengdeejing A., Manjanath A., **Dahule R.**
-   *A multi-scale modelling without empirical parameter to design structural materials*.
-   **Materials Science and Metallurgical Engineering Special Seminar 2026** IIT Hyderabad, India
+1. Sahara R., Saengdeejing A., Manjanath A., **Dahule R.**,
+   *A multi-scale modelling without empirical parameter to design structural materials*.,
+   **Materials Science and Metallurgical Engineering Special Seminar 2026**, IIT Hyderabad, India
    (Presenter: R. Sahara)
 1. **Dahule R.**,
    *Ab initio study of surface and interface properties*,
