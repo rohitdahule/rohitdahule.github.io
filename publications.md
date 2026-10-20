@@ -123,7 +123,7 @@ permalink: /publications/
    *First-principles study of Cu<sub>2</sub>SnS<sub>3</sub> surface properties*,  
    **IUMRS-ICYRAM 2022**, Fukuoka, Japan.
 
-
+<!-- 
 ## Talks and Seminars {#Talks}
 1. Sahara R., Saengdeejing A., Manjanath A., **Dahule R.**,
    *A multi-scale modelling without empirical parameter to design structural materials*.,
@@ -137,6 +137,7 @@ permalink: /publications/
    *Ab initio study of surface and interface properties*,
    **ICCMS, Jilin University**, Changchun, China (2023).
    (Presenter: Rohit Dahule)
+   -->
 
    
    
