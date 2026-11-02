@@ -20,7 +20,6 @@ You can download my full CV here:
 ## Appointments
 
 - Postdoctoral Researcher, NIMS, Tsukuba, Japan, 2025 to present
-- Research Student 
 - Junior Research Fellow, IIT Gandhinagar, India, 2020 to 2021
 
 ## Honors and Awards
