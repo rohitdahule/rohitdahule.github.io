@@ -63,7 +63,7 @@ permalink: /publications/
    *Microstructure Prediction of Ni-Al Alloys Using First-Principles Phase Field Method*,
    **RCSM research report meeting**, NIMS, Tsukuba, Japan, 2026. (Poster presentation)
 
-1. Nakatani T., Sur K., Pütkül M. D., Ikeda Y., Suwannaharn N., **Dahule R.**, Sasaki T. \& Sahara R., 
+1. Nakatani T., Sur K., Pütkül M. D., Ikeda Y., Suwannaharn N., **Dahule R.**, Sasaki T. & Sahara R., 
    *Epitaxial CoSn thin films on 300-mm-compatible substrates*,
     **Advanced Metallization Conference 2026**, Tokyo, Japan. 
    
